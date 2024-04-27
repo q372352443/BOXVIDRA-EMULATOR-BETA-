@@ -109,6 +109,7 @@ pkg install p7zip -y &>/dev/null
 pkg install patchelf -y &>/dev/null
 pkg install ncurses-utils -y &>/dev/null
 pkg install hashdeep -y &>/dev/null
+pkg install xorg-xrandr -y &>/dev/null
 
 echo -n "Boxvidra Emulator Packages Installed Successfuly"
 echo -e "\n"
